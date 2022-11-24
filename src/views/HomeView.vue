@@ -3,8 +3,7 @@
     <img alt="Vue logo"
          src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App" />
-
-    第三次
+    第三次45
   </div>
 </template>
 
