@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo"
+         src="../assets/logo.png">
+    <HelloWorld msg="Welcome to Your Vue.js App" />
+    第三次45
   </div>
 </template>
 
