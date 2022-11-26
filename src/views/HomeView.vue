@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo"
          src="../assets/logo.png">
-    合并测试01
+    首页开发01
   </div>
 </template>
 
