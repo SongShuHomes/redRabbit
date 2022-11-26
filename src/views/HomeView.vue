@@ -2,7 +2,7 @@
   <div class="home">
     <img alt="Vue logo"
          src="../assets/logo.png">
-    测试68
+    合并测试01
   </div>
 </template>
 
